@@ -1,6 +1,6 @@
 ---
 name: business-benchmarking
-description: ”Conduct professional business benchmarking analysis for any domain. Designs expert research questionnaires, searches authoritative sources for benchmark data, builds dimension frameworks from findings, performs gap scoring, and generates interactive HTML reports + Feishu documents. Use when user mentions benchmarking, competitive analysis, gap analysis, industry comparison, capability assessment, best practice research, peer comparison, or maturity evaluation. Keywords: 对标, benchmarking, competitive analysis, gap analysis, industry benchmark, 差距分析, 行业对标, 最佳实践.“
+description: "Conduct professional business benchmarking analysis for any domain. Designs expert research questionnaires, searches authoritative sources for benchmark data, builds dimension frameworks from findings, performs gap scoring, and generates interactive HTML reports + Feishu documents. Use when user mentions benchmarking, competitive analysis, gap analysis, industry comparison, capability assessment, best practice research, peer comparison, or maturity evaluation. Keywords: 对标, benchmarking, competitive analysis, gap analysis, industry benchmark, 差距分析, 行业对标, 最佳实践."
 version: 1.0.0
 ---
 
